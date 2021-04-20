@@ -28,5 +28,5 @@ end
 
 
 
-sorry computer froze and had no connection
+
 >>>>>>> 90bd980926d500465615eef0bacbc5f7e3e3deef
