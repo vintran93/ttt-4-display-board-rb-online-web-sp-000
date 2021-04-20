@@ -4,6 +4,7 @@
 
 
 def display_board(board)
+<<<<<<< HEAD
 puts " #{board[0]} | #{board[1]} | #{board[2]} " 
 puts "-----------"
 puts " #{board[3]} | #{board[4]} | #{board[5]} "
@@ -15,3 +16,17 @@ end
 
 
 
+=======
+" #{board[0]} | #{board[1]}  | #{board[2]} " 
+"-----------"
+" #{board[3]} | #{board[4]}  | #{board[5]} "
+"-----------"
+" #{board[6]} |  #{board[7]} | #{board[8]} "
+
+
+end
+
+
+
+sorry computer froze and had no connection
+>>>>>>> 90bd980926d500465615eef0bacbc5f7e3e3deef
